@@ -1,0 +1,18 @@
+{
+  "Version": "0.4.4",
+  "VersionCode": 1,
+  "RootNamespace":"",
+  "Packages": [
+    "Fuse",
+    "FuseJS",
+    "Android.ActivityUtils"
+  ],
+  "Includes": [
+    "*",
+    "*.uno",
+  ],
+  "Excludes": [
+   "HokeyApp.uno"
+  ],
+}
+

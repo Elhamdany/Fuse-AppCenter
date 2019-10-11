@@ -1,0 +1,10 @@
+<App>
+
+<Panel Height="150" Width="150" Background="Red">
+<AppCenter.Initialize />
+  <Text Value="Hello App Center"/>  
+</Panel>
+
+
+
+</App>
