@@ -1,7 +1,7 @@
 <App>
-
+<AppCenter.Initialize Key="01a149c2-51ee-44a5-bdd7-f168d3db0fd9" />
 <Panel Height="150" Width="150" Background="Red">
-<AppCenter.Initialize />
+
   <Text Value="Hello App Center"/>  
 </Panel>
 
